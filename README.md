@@ -3,12 +3,14 @@
   <!-- 1. Custom Executive Studio Hero Banner (Royal Blue & Cyan Gradient) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,45:2563EB,75:38BDF8,100:E0F2FE&height=250&section=header&text=Walid%20Abdullah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%207%2B%20Years%20Senior%20Video%20Editor&descFontSize=17&descAlignY=62&descColor=E0F2FE&animation=fadeIn" width="100%" />
 
-  <!-- 2. Dynamic Typing SVG -->
-  <a href="https://editlyfoundry.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=23&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=850&height=45&lines=Full-Stack+Software+Engineer+%26+Next.js+Architect+(Academic+Core);Senior+Video+Editor+(7%2B+Years)+%26+Post-Production+Director;Founder+%26+Executive+Producer+%40+The+Editly+Foundry+Co.;Fusing+Cinematic+Visuals+with+High-Performance+Software+Systems." alt="Typing SVG" />
-  </a>
-
-  <br/>
+  <!-- 2. Luxury Combination Typography (Clash Display + Italianno/Playfair Serif Accent) -->
+  <h2 style="font-family: 'Playfair Display', 'Clash Display', Georgia, serif; font-size: 32px; font-weight: 700; color: #0F172A; letter-spacing: -0.02em; margin: 16px 0 6px;">
+    Engineering Scalable Systems. <span style="font-style: italic; font-weight: 400; color: #2563EB; font-family: 'Playfair Display', 'Italianno', serif;">Directing Viral Cutdowns.</span>
+  </h2>
+  
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; color: #64748B; font-weight: 500; margin: 0 0 20px;">
+    Full-Stack Software Engineer &amp; Web Systems Architect • 7+ Years Senior Video Editor • Founder @ The Editly Foundry Co.
+  </p>
 
   <!-- 3. Soft Eye-Pleasing Direct Contact & Business Actions -->
   <p align="center">
@@ -39,6 +41,45 @@ As the **Founder & Executive Producer at [The Editly Foundry Co.](https://editly
 - **Academic & Engineering Focus:** Architecting scalable applications using Next.js 15 App Router, React 19, Three.js WebGL, Node.js, and Meta WhatsApp Cloud API.
 - **7+ Years Post-Production Leadership:** Directed over 2,000+ high-retention video assets (Reels, Podcasts, Talking Head, UGC Ads, and SaaS 3D Motion).
 - **Global Production SLA:** Standard 48-hour turnarounds with dedicated editor pods and real-time Frame.io review infrastructure.
+
+---
+
+### Technical & Creative Arsenal
+
+<div align="center">
+
+  <table width="100%">
+    <thead>
+      <tr align="center">
+        <th width="50%"><h3>Pillar 1: Software & Web Engineering (Academic)</h3></th>
+        <th width="50%"><h3>Pillar 2: Video Post-Production (7+ Years)</h3></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" style="padding: 16px;">
+          <p><strong>Tech Stack & Cloud Engines:</strong></p>
+          <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,nodejs,ts,js,git,github,vercel" /><br/><br/>
+          <p><strong>Key Capabilities:</strong></p>
+          <sub>• Next.js 15 App Router & React 19 Architectures<br/>
+          • Interactive WebGL 3D & GSAP Cinema Motion<br/>
+          • Meta WhatsApp Cloud API & Automated Lead Routing<br/>
+          • Headless Sanity CMS & Enterprise Web Performance</sub>
+        </td>
+        <td align="center" style="padding: 16px;">
+          <p><strong>Post-Production & Motion Suite:</strong></p>
+          <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,figma" /><br/><br/>
+          <p><strong>Key Capabilities:</strong></p>
+          <sub>• Retention-Engineered Short-Form (Reels/Shorts)<br/>
+          • Podcast & High-Authority YouTube Long-Form<br/>
+          • Advanced Color Grading & Dynamic Sound Design<br/>
+          • Motion Graphics & Collaborative Frame.io Pipelines</sub>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
 
 ---
 
@@ -87,45 +128,6 @@ As the **Founder & Executive Producer at [The Editly Foundry Co.](https://editly
 
 ---
 
-### Technical & Creative Arsenal
-
-<div align="center">
-
-  <table width="100%">
-    <thead>
-      <tr align="center">
-        <th width="50%"><h3>Pillar 1: Software & Web Engineering (Academic)</h3></th>
-        <th width="50%"><h3>Pillar 2: Video Post-Production (7+ Years)</h3></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="padding: 16px;">
-          <p><strong>Tech Stack & Cloud Engines:</strong></p>
-          <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,nodejs,ts,js,git,github,vercel" /><br/><br/>
-          <p><strong>Key Capabilities:</strong></p>
-          <sub>• Next.js 15 App Router & React 19 Architectures<br/>
-          • Interactive WebGL 3D & GSAP Cinema Motion<br/>
-          • Meta WhatsApp Cloud API & Automated Lead Routing<br/>
-          • Headless Sanity CMS & Enterprise Web Performance</sub>
-        </td>
-        <td align="center" style="padding: 16px;">
-          <p><strong>Post-Production & Motion Suite:</strong></p>
-          <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,figma" /><br/><br/>
-          <p><strong>Key Capabilities:</strong></p>
-          <sub>• Retention-Engineered Short-Form (Reels/Shorts)<br/>
-          • Podcast & High-Authority YouTube Long-Form<br/>
-          • Advanced Color Grading & Dynamic Sound Design<br/>
-          • Motion Graphics & Collaborative Frame.io Pipelines</sub>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-</div>
-
----
-
 ### Performance Analytics & Engineering Velocity
 
 <div align="center">
@@ -143,7 +145,7 @@ As the **Founder & Executive Producer at [The Editly Foundry Co.](https://editly
 
   <br/>
 
-  <!-- Top Languages Card (Bluish Light Theme) -->
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-abdullah&layout=compact&theme=nord&title_color=0052D4&text_color=334155&bg_color=F0F9FF&border_color=BAE6FD" />
 
 </div>
@@ -179,5 +181,5 @@ As the **Founder & Executive Producer at [The Editly Foundry Co.](https://editly
 <div align="center">
   <!-- Pure Vibrant Royal Bluish Waves Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,45:2563EB,75:38BDF8,100:E0F2FE&height=100&section=footer" width="100%" />
-  <sub>Architected with Precision Code & 7+ Years of High-Retention Video Craft • <strong>Walid Abdullah</strong></sub>
+  <sub>Architected with Precision Code &amp; 7+ Years of High-Retention Video Craft • <strong>Walid Abdullah</strong></sub>
 </div>
