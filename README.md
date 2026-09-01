@@ -3,9 +3,9 @@
   <!-- 1. Exact Matched Studio Cobalt Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,45:2563EB,75:38BDF8,100:E0F2FE&height=240&section=header&text=Walid%20Abdullah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%207%2B%20Years%20Senior%20Video%20Editor&descFontSize=17&descAlignY=62&descColor=E0F2FE&animation=fadeIn" width="100%" />
 
-  <!-- 2. Smooth Cinematic Fade Animation (No Typewriter • Zero Cutting) -->
+  <!-- 2. Smooth Text Cycling (No Letter Typing • Instant Full Text Transitions) -->
   <a href="https://editlyfoundry.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=60&text=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Video%20Director%20%E2%80%A2%20Founder&fontSize=23&fontColor=2563EB&fontAlignY=50&animation=fadeIn" width="100%" />
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=21&duration=1800&pause=2000&color=2563EB&center=true&vCenter=true&multiline=false&width=950&height=45&lines=Full-Stack+Software+Engineer+%26+Next.js+Architect;Senior+Video+Editor+(7%2B+Years)+%26+Post-Production+Director;Founder+%26+Executive+Producer+%40+The+Editly+Foundry+Co.;Architecting+High-Performance+Web3D+Apps+%26+Viral+Media+Systems." alt="Cycling Roles" />
   </a>
 
   <br/>
