@@ -1,122 +1,125 @@
 <div align="center">
+  <img src="https://github.com/walid-abdullah.png" width="160" style="border-radius: 999px; border: 2px solid rgba(56, 189, 248, 0.4); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);" alt="Walid Abdullah" />
+  
+  <h1 style="margin: 16px 0 6px; font-size: 40px; letter-spacing: -0.04em; font-weight: 700; color: #F8FAFC;">Walid Abdullah</h1>
+  
+  <p style="margin: 0 0 20px; font-size: 16px; color: #94A3B8; letter-spacing: 0.02em;">
+    Full-Stack Software Engineer & Web Systems Architect • Senior Video Editor & Post-Production Director • Founder @ The Editly Foundry Co.
+  </p>
 
-  <!-- 1. Exact Matched Studio Cobalt Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,37,80,100&height=230&section=header&text=Walid%20Abdullah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%207%2B%20Years%20Senior%20Video%20Editor&descFontSize=17&descAlignY=62&descColor=38bdf8&animation=fadeIn" width="100%" />
-
-  <!-- 2. Animated Typing SVG (Studio Ice-Blue Theme) -->
-  <a href="https://editlyfoundry.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=23&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Full-Stack+Software+Engineer+%26+Next.js+Architect+(Academic+Background);Senior+Video+Editor+(7%2B+Years)+%26+Post-Production+Director;Founder+%26+Executive+Producer+%40+The+Editly+Foundry+Co.;Architecting+High-Performance+Web3D+Apps+%26+Viral+Media+Systems." alt="Typing SVG" />
-  </a>
+  <!-- Apple Keynote Frosted Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0F172A&stroke=38BDF8&strokeWidth=1&height=140&section=header&text=Full-Stack%20Engineer%20%E2%80%A2%20Video%20Director%20%E2%80%A2%20Founder&fontSize=26&fontColor=F8FAFC&fontAlignY=46&desc=United%20States%20%E2%80%A2%20Dubai%20%E2%80%A2%20Dhaka&descFontSize=14&descAlignY=72&descColor=38BDF8" width="100%" />
 
   <br/>
 
-  <!-- 3. Direct Contact & Social Medallions -->
+  <!-- Minimalist Executive Action Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/walid-abdullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://wa.me/8801886755888"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="mailto:theeditlyfoundry@gmail.com"><img src="https://img.shields.io/badge/Founder_Inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://calendly.com/w-abdullah5588/30min"><img src="https://img.shields.io/badge/Book_Strategy_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/walid-abdullah"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="LinkedIn" /></a>
+    <a href="https://wa.me/8801886755888"><img src="https://img.shields.io/badge/WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="WhatsApp" /></a>
+    <a href="mailto:theeditlyfoundry@gmail.com"><img src="https://img.shields.io/badge/Founder%20Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="Founder Email" /></a>
+    <a href="https://calendly.com/w-abdullah5588/30min"><img src="https://img.shields.io/badge/Book%20a%20Call-0F172A?style=for-the-badge&logo=calendar&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="Calendly Booking" /></a>
+    <a href="https://editlyfoundry.vercel.app"><img src="https://img.shields.io/badge/Agency%20Site-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=38BDF8&labelColor=0F172A&color=0F172A" alt="Agency Site" /></a>
   </p>
 
 </div>
 
 ---
 
-### 👑 Executive Identity & Dual-Core Focus
-
-<table border="0" width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://github.com/walid-abdullah/walid-abdullah/raw/main/profile.png" width="100%" style="border-radius: 18px; border: 2px solid #2563EB; box-shadow: 0 10px 30px rgba(37, 99, 235, 0.35);" />
-    </td>
-    <td width="62%" valign="top">
-      <h3>⚡ Md. Abdullah Walid</h3>
-      <p><strong>Founder & Executive Producer @ <a href="https://editlyfoundry.vercel.app">The Editly Foundry Co.</a></strong></p>
-      <ul>
-        <li>🎓 <strong>Academic Core:</strong> Full-Stack Software Engineer & Web Systems Architect</li>
-        <li>🎬 <strong>Creative Industry:</strong> 7+ Years Professional Video Editor & Creative Director</li>
-        <li>⚡ <strong>Tech Stack:</strong> Next.js 15, React 19, Three.js WebGL, Node.js, TypeScript, Meta Cloud API</li>
-        <li>🎥 <strong>Production Suite:</strong> Premiere Pro, After Effects, DaVinci Resolve, Photoshop, Frame.io</li>
-        <li>📍 <strong>Global Presence:</strong> United States • Dubai • Dhaka</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚔️ Dual-Domain Powerhouse (Engineering & Creative Mastery)
+### Apple Luxury Bento Grid
 
 <div align="center">
-
   <table width="100%">
-    <thead>
-      <tr align="center">
-        <th width="50%"><h3>💻 Pillar 1: Software & Web Engineering (Academic)</h3></th>
-        <th width="50%"><h3>🎬 Pillar 2: Video Post-Production (7+ Years)</h3></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" style="padding: 16px;">
-          <p><strong>Full-Stack Tech Stack:</strong></p>
-          <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,nodejs,ts,js,git,github,vercel" /><br/><br/>
-          <p><strong>Core Capabilities:</strong></p>
-          <sub>• Next.js 15 App Router & React 19 Architectures<br/>
-          • Interactive WebGL 3D & GSAP Cinema Motion<br/>
-          • Meta WhatsApp Cloud API & CRM Automation<br/>
-          • Headless Sanity CMS & Enterprise Web Performance</sub>
-        </td>
-        <td align="center" style="padding: 16px;">
-          <p><strong>Post-Production Suite:</strong></p>
-          <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,figma" /><br/><br/>
-          <p><strong>Core Capabilities:</strong></p>
-          <sub>• Retention-Engineered Short-Form (Reels/Shorts)<br/>
-          • Podcast & High-Authority YouTube Long-Form<br/>
-          • Advanced Color Grading & Dynamic Sound Design<br/>
-          • Motion Graphics & Collaborative Frame.io Pipelines</sub>
-        </td>
-      </tr>
-    </tbody>
+    <tr>
+      <td width="50%" valign="top" style="padding: 16px;">
+        <div align="left">
+          <h3 style="margin: 0 0 12px; font-size: 20px; color: #F8FAFC;">Academic & Software Engineering Stack</h3>
+          <p style="margin: 0; color: #CBD5E1; line-height: 1.8;">
+            • Next.js 15 (App Router)<br>
+            • React 19 & Architecture<br>
+            • TypeScript & Node.js<br>
+            • Interactive WebGL 3D<br>
+            • TailwindCSS & UI Systems<br>
+            • Meta WhatsApp Cloud API<br>
+            • Scalable Cloud Workflows
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding: 16px;">
+        <div align="left">
+          <h3 style="margin: 0 0 12px; font-size: 20px; color: #F8FAFC;">Video Post-Production Suite (7+ Years)</h3>
+          <p style="margin: 0; color: #CBD5E1; line-height: 1.8;">
+            • Adobe Premiere Pro<br>
+            • Adobe After Effects<br>
+            • DaVinci Resolve Studio<br>
+            • Adobe Photoshop<br>
+            • Frame.io Cloud Reviews<br>
+            • YouTube Long-Form Strategy<br>
+            • Retention-Engineered Short-Form
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" style="padding: 16px;">
+        <div align="left">
+          <h3 style="margin: 0 0 12px; font-size: 20px; color: #F8FAFC;">Executive & Operations Footprint</h3>
+          <p style="margin: 0; color: #CBD5E1; line-height: 1.8;">
+            • United States • Dubai • Dhaka<br>
+            • Founder & Executive Producer<br>
+            • 48-Hour Turnaround Pipeline<br>
+            • Global Multi-Platform Delivery
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding: 16px;">
+        <div align="left">
+          <h3 style="margin: 0 0 12px; font-size: 20px; color: #F8FAFC;">Core Philosophy</h3>
+          <p style="margin: 0; color: #CBD5E1; line-height: 1.8;">
+            Precision engineering meets cinematic storytelling.<br>
+            Architected for retention, conversion, and global scale.
+          </p>
+        </div>
+      </td>
+    </tr>
   </table>
-
 </div>
 
 ---
 
-### 📊 Performance Analytics & Activity
+### Performance Dashboard
 
 <div align="center">
-
   <table border="0" style="border: none;">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=walid-abdullah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&icon_color=2563EB&text_color=93C5FD" width="410" />
+        <img src="https://github-readme-stats.vercel.app/api?username=walid-abdullah&show_icons=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&bg_color=0F172A&hide_border=true" width="410" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=walid-abdullah&theme=tokyonight&hide_border=true&background=0B0F19&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8" width="410" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=walid-abdullah&theme=dark&background=0F172A&border=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0" width="410" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-abdullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=38BDF8&text_color=93C5FD" />
-
-</div>
-
----
-
-### 🏆 Recognitions & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=walid-abdullah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-abdullah&layout=compact&theme=transparent&title_color=38BDF8&text_color=E2E8F0&bg_color=0F172A&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,37,80,100&height=100&section=footer" width="100%" />
-  <sub>⚡ Fusing 7+ Years of Cinematic Mastery with High-Performance Code • <strong>Walid Abdullah</strong></sub>
+  <table width="100%">
+    <tr>
+      <td align="center" style="padding: 16px;">
+        <h4 style="margin: 0 0 8px; color: #F8FAFC; font-size: 18px;">Current Focus</h4>
+        <p style="margin: 0; color: #94A3B8; font-size: 14px; line-height: 1.6;">
+          Engineering high-conversion digital platforms, Web3D experiences, and retention-first video systems at <strong>The Editly Foundry Co.</strong>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <p style="margin-top: 20px; color: #64748B; font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase;">
+    United States • Dubai • Dhaka
+  </p>
 </div>
