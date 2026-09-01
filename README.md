@@ -3,9 +3,9 @@
   <!-- 1. Exact Matched Studio Cobalt Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,45:2563EB,75:38BDF8,100:E0F2FE&height=240&section=header&text=Walid%20Abdullah&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%207%2B%20Years%20Senior%20Video%20Editor&descFontSize=17&descAlignY=62&descColor=E0F2FE&animation=fadeIn" width="100%" />
 
-  <!-- 2. Smooth Text Cycling (No Letter Typing • Instant Full Text Transitions) -->
+  <!-- 2. Transparent Multi-Line Animated Cycling Text -->
   <a href="https://editlyfoundry.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=21&duration=1800&pause=2000&color=2563EB&center=true&vCenter=true&multiline=false&width=950&height=45&lines=Full-Stack+Software+Engineer+%26+Next.js+Architect;Senior+Video+Editor+(7%2B+Years)+%26+Post-Production+Director;Founder+%26+Executive+Producer+%40+The+Editly+Foundry+Co.;Architecting+High-Performance+Web3D+Apps+%26+Viral+Media+Systems." alt="Cycling Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&width=950&height=40&lines=Full-Stack+Software+Engineer+%26+Next.js+Architect;Senior+Video+Editor+(7%2B+Years)+%26+Post-Production+Director;Founder+%26+Executive+Producer+%40+The+Editly+Foundry+Co.;Architecting+High-Performance+Web3D+Apps+%26+Viral+Media+Systems." alt="Cycling Roles" />
   </a>
 
   <br/>
@@ -119,38 +119,6 @@ As the **Founder & Executive Producer at [The Editly Foundry Co.](https://editly
 
 ---
 
-### Performance Analytics & GitHub Velocity
-
-<div align="center">
-
-  <table border="0" style="border: none;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=walid-abdullah&show_icons=true&theme=nord&title_color=0052D4&icon_color=2563EB&text_color=334155&bg_color=F0F9FF&border_color=BAE6FD" width="410" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=walid-abdullah&theme=nord&background=F0F9FF&border=BAE6FD&ring=0052D4&fire=2563EB&currStreakLabel=0052D4" width="410" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=walid-abdullah&layout=compact&theme=nord&title_color=0052D4&text_color=334155&bg_color=F0F9FF&border_color=BAE6FD" alt="Top Languages" />
-
-</div>
-
----
-
-### Recognitions & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-fast.vercel.app/?username=walid-abdullah&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ### Featured Insights & Video Playbooks
 
 <div align="center">
@@ -173,6 +141,18 @@ As the **Founder & Executive Producer at [The Editly Foundry Co.](https://editly
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### Schedule a 1:1 Strategy Call (Google Meet)
+
+<div align="center">
+  <p style="color: #64748B; font-size: 14px; margin-bottom: 14px;">Click the calendar widget below to select an available time slot directly:</p>
+  
+  <a href="https://calendly.com/w-abdullah5588/30min">
+    <img src="https://editlyfoundry.vercel.app/calendly-schedule.jpg" width="650" style="border-radius: 16px; border: 1px solid #BAE6FD; box-shadow: 0 10px 30px rgba(0, 82, 212, 0.08);" alt="Click to Book Strategy Call on Calendly" />
+  </a>
 </div>
 
 ---
