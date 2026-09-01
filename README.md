@@ -148,10 +148,10 @@ As the **Founder & Executive Producer at [The Editly Foundry Co.](https://editly
 ### Schedule a 1:1 Strategy Call (Google Meet)
 
 <div align="center">
-  <p style="color: #64748B; font-size: 14px; margin-bottom: 14px;">Click the calendar widget below to select an available time slot directly:</p>
+  <p style="color: #64748B; font-size: 14px; margin-bottom: 14px;">Click the calendar card below to pick an available date &amp; time slot directly:</p>
   
   <a href="https://calendly.com/w-abdullah5588/30min">
-    <img src="https://editlyfoundry.vercel.app/calendly-schedule.jpg" width="650" style="border-radius: 16px; border: 1px solid #BAE6FD; box-shadow: 0 10px 30px rgba(0, 82, 212, 0.08);" alt="Click to Book Strategy Call on Calendly" />
+    <img src="https://editlyfoundry.vercel.app/calendly-card-final.jpg" width="680" style="border-radius: 18px; border: 1px solid #BAE6FD; box-shadow: 0 10px 30px rgba(0, 82, 212, 0.08);" alt="Click to Book Strategy Call on Calendly" />
   </a>
 </div>
 
